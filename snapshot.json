@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated_at": "2026-11-03T14:46:58-04:00",
+ "updated_at": "2026-11-04T12:22:11-05:00",
  "gate": {
   "state": "冻结中",
   "vix": 19.42,
@@ -8,7 +8,7 @@
  },
  "sleeves": {
   "ira_cash": 6006.13,
-  "moomoo_cash": 5954.27
+  "moomoo_cash": 7721.97
  },
  "positions": [
   {
@@ -26,20 +26,6 @@
    "prev_close": 221.72
   },
   {
-   "ticker": "VLO",
-   "sleeve": "moomoo",
-   "strategy": "champion",
-   "shares": 5,
-   "cost": 385.0,
-   "entry": "2026-10-28",
-   "high_close": 399.66,
-   "high_date": "2026-10-30",
-   "stop": 353.46,
-   "close": 381.46,
-   "close_date": "2026-11-02",
-   "prev_close": 399.66
-  },
-  {
    "ticker": "ISRG",
    "sleeve": "moomoo",
    "strategy": "turtle",
@@ -55,6 +41,16 @@
   }
  ],
  "closed": [
+  {
+   "ticker": "VLO",
+   "sleeve": "moomoo",
+   "shares": 5,
+   "cost": 385.0,
+   "exit": 353.54,
+   "exit_date": "2026-11-04",
+   "pnl": -157.3,
+   "reason": "止损"
+  },
   {
    "ticker": "SNDK",
    "sleeve": "IRA",
@@ -116,7 +112,7 @@
    "ticker": "VLO",
    "change_pct": 140.7,
    "close": 399.66,
-   "status": "持仓中"
+   "status": "已止损出场"
   },
   {
    "rank": 4,
