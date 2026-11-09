@@ -23,7 +23,7 @@
       "stop": 235.55,
       "close": 254.19,
       "close_date": "2026-11-06",
-      "prev_close": 241.46
+      "prev_close": 254.19
     },
     {
       "ticker": "TGT",
@@ -135,7 +135,7 @@
       "stop": 427.03,
       "close": 452.8,
       "close_date": "2026-11-06",
-      "prev_close": 468.52
+      "prev_close": 452.8
     }
   ],
   "closed": [
