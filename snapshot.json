@@ -147,7 +147,8 @@
       "exit": 353.54,
       "exit_date": "2026-11-04",
       "pnl": -157.3,
-      "reason": "止损"
+      "reason": "止损",
+      "dayMove": -170.55
     },
     {
       "ticker": "SNDK",
@@ -157,7 +158,8 @@
       "exit": 1216.94,
       "exit_date": "2026-10-30",
       "pnl": -125.16,
-      "reason": "止损"
+      "reason": "止损",
+      "dayMove": -113.11
     },
     {
       "ticker": "VLO",
@@ -167,7 +169,8 @@
       "exit": 384.62,
       "exit_date": "2026-10-28",
       "pnl": -97.92,
-      "reason": "止损"
+      "reason": "止损",
+      "dayMove": -5.44
     },
     {
       "ticker": "MRNA",
@@ -177,7 +180,8 @@
       "exit": 207.3,
       "exit_date": "2026-10-27",
       "pnl": 164.34,
-      "reason": "手动平仓"
+      "reason": "手动平仓",
+      "dayMove": 164.34
     },
     {
       "ticker": "VLO",
@@ -187,7 +191,8 @@
       "exit": 387,
       "exit_date": "2026-10-27",
       "pnl": -26,
-      "reason": "手动平仓"
+      "reason": "手动平仓",
+      "dayMove": -26.0
     },
     {
       "ticker": "MRNA",
@@ -197,7 +202,8 @@
       "exit": 246.115,
       "exit_date": "2026-11-11",
       "pnl": 335.07,
-      "reason": "止损"
+      "reason": "止损",
+      "dayMove": -28.29
     }
   ],
   "weekly_champions": [
