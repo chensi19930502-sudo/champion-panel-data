@@ -1,13 +1,13 @@
 {
  "version": 2,
- "updated_at": "2026-11-12T09:36:59-05:00",
+ "updated_at": "2026-11-12T09:38:11-05:00",
  "gate": {
   "state": "开启",
   "vix": 25.56,
   "date": "2026-11-06"
  },
  "sleeves": {
-  "ira_cash": 3260.04,
+  "ira_cash": 3535.34,
   "moomoo_cash": 3801.89
  },
  "positions": [
@@ -38,20 +38,6 @@
    "close": 363.71,
    "close_date": "2026-11-11",
    "prev_close": 350.71
-  },
-  {
-   "ticker": "SNDK",
-   "sleeve": "IRA",
-   "strategy": "champion",
-   "shares": 0.3,
-   "cost": 854.95,
-   "entry": "2026-11-09",
-   "high_close": 977.69,
-   "high_date": "2026-11-11",
-   "stop": 875.1,
-   "close": 977.69,
-   "close_date": "2026-11-11",
-   "prev_close": 859.99
   },
   {
    "ticker": "VLO",
@@ -231,6 +217,17 @@
    "pnl": 12.87,
    "reason": "手动卖出",
    "dayMove": -16.16
+  },
+  {
+   "ticker": "SNDK",
+   "sleeve": "IRA",
+   "shares": 0.3,
+   "cost": 854.95,
+   "exit": 917.68,
+   "exit_date": "2026-11-12",
+   "pnl": 18.82,
+   "reason": "手动卖出",
+   "dayMove": -18.0
   }
  ],
  "weekly_champions": [
@@ -406,8 +403,8 @@
   ],
   [
    "SNDK",
-   -27.06,
-   36.82
+   -8.24,
+   0
   ],
   [
    "HUBB",
