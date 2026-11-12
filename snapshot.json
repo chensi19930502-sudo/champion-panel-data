@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-11-11T16:47:39-05:00",
+  "updated_at": "2026-11-11T17:42:50-05:00",
   "gate": {
     "state": "开启",
     "vix": 25.56,
@@ -21,9 +21,9 @@
       "high_close": 165.9,
       "high_date": "2026-11-09",
       "stop": 146.55,
-      "close": 165.9,
-      "close_date": "2026-11-09",
-      "prev_close": 161.21
+      "close": 162.7,
+      "close_date": "2026-11-11",
+      "prev_close": 161.78
     },
     {
       "ticker": "VLO",
@@ -35,9 +35,9 @@
       "high_close": 363.71,
       "high_date": "2026-11-11",
       "stop": 322.37,
-      "close": 356.75,
-      "close_date": "2026-11-09",
-      "prev_close": 344.5
+      "close": 363.71,
+      "close_date": "2026-11-11",
+      "prev_close": 350.71
     },
     {
       "ticker": "SNDK",
@@ -49,9 +49,9 @@
       "high_close": 977.69,
       "high_date": "2026-11-11",
       "stop": 875.1,
-      "close": 886.51,
-      "close_date": "2026-11-09",
-      "prev_close": 854.95
+      "close": 977.69,
+      "close_date": "2026-11-11",
+      "prev_close": 859.99
     },
     {
       "ticker": "SNDK",
@@ -63,9 +63,9 @@
       "high_close": 977.69,
       "high_date": "2026-11-11",
       "stop": 875.48,
-      "close": 886.51,
-      "close_date": "2026-11-09",
-      "prev_close": 851.78
+      "close": 977.69,
+      "close_date": "2026-11-11",
+      "prev_close": 859.99
     },
     {
       "ticker": "VLO",
@@ -77,9 +77,9 @@
       "high_close": 363.71,
       "high_date": "2026-11-11",
       "stop": 322.16,
-      "close": 356.75,
-      "close_date": "2026-11-09",
-      "prev_close": 346.2595
+      "close": 363.71,
+      "close_date": "2026-11-11",
+      "prev_close": 350.71
     },
     {
       "ticker": "TGT",
@@ -91,9 +91,9 @@
       "high_close": 165.9,
       "high_date": "2026-11-09",
       "stop": 146.58,
-      "close": 165.9,
-      "close_date": "2026-11-09",
-      "prev_close": 160.987
+      "close": 162.7,
+      "close_date": "2026-11-11",
+      "prev_close": 161.78
     },
     {
       "ticker": "MRNA",
@@ -105,9 +105,9 @@
       "high_close": 269,
       "high_date": "2026-11-09",
       "stop": 237.73,
-      "close": 269,
-      "close_date": "2026-11-09",
-      "prev_close": 260.56
+      "close": 248.69,
+      "close_date": "2026-11-11",
+      "prev_close": 250.83
     },
     {
       "ticker": "ISRG",
@@ -119,9 +119,9 @@
       "high_close": 482.1,
       "high_date": "2026-11-04",
       "stop": 427.03,
-      "close": 460.56,
-      "close_date": "2026-11-09",
-      "prev_close": 452.8
+      "close": 449.53,
+      "close_date": "2026-11-11",
+      "prev_close": 450.04
     },
     {
       "ticker": "NVDA",
@@ -130,12 +130,12 @@
       "shares": 0.1651,
       "cost": 0,
       "entry": null,
-      "high_close": null,
-      "high_date": null,
+      "high_close": 178.67,
+      "high_date": "2026-11-09",
       "stop": null,
-      "close": 178.67,
-      "close_date": "2026-11-09",
-      "prev_close": 186.64
+      "close": 173.73,
+      "close_date": "2026-11-11",
+      "prev_close": 168.89
     }
   ],
   "closed": [
@@ -248,7 +248,8 @@
     "2026-11-05": -101.52,
     "2026-11-06": 76.38,
     "2026-11-09": 545.79,
-    "2026-11-10": -529.11
+    "2026-11-10": -529.11,
+    "2026-11-11": 660.59
   },
   "daily_calendar": {
     "2026-10-26": 15.11,
@@ -262,7 +263,8 @@
     "2026-11-05": -305.22,
     "2026-11-06": -159.42,
     "2026-11-09": 662.19,
-    "2026-11-10": -686.91
+    "2026-11-10": -686.91,
+    "2026-11-11": 652.94
   },
   "ranking": [
     [
