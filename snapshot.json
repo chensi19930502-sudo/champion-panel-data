@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated_at": "2026-11-12T09:33:06-05:00",
+ "updated_at": "2026-11-12T09:36:59-05:00",
  "gate": {
   "state": "开启",
   "vix": 25.56,
@@ -8,7 +8,7 @@
  },
  "sleeves": {
   "ira_cash": 3260.04,
-  "moomoo_cash": 3524.35
+  "moomoo_cash": 3801.89
  },
  "positions": [
   {
@@ -54,20 +54,6 @@
    "prev_close": 859.99
   },
   {
-   "ticker": "SNDK",
-   "sleeve": "moomoo",
-   "strategy": "champion",
-   "shares": 0.2306,
-   "cost": 851.78,
-   "entry": "2026-11-09",
-   "high_close": 977.69,
-   "high_date": "2026-11-11",
-   "stop": 875.48,
-   "close": 977.69,
-   "close_date": "2026-11-11",
-   "prev_close": 859.99
-  },
-  {
    "ticker": "VLO",
    "sleeve": "moomoo",
    "strategy": "champion",
@@ -94,20 +80,6 @@
    "close": 162.7,
    "close_date": "2026-11-11",
    "prev_close": 161.78
-  },
-  {
-   "ticker": "MRNA",
-   "sleeve": "moomoo",
-   "strategy": "champion",
-   "shares": 0.2919,
-   "cost": 260.56,
-   "entry": "2026-11-09",
-   "high_close": 269,
-   "high_date": "2026-11-09",
-   "stop": 237.73,
-   "close": 248.69,
-   "close_date": "2026-11-11",
-   "prev_close": 250.83
   },
   {
    "ticker": "ISRG",
@@ -237,6 +209,28 @@
    "pnl": 40.23,
    "reason": "止损",
    "dayMove": -205.26
+  },
+  {
+   "ticker": "MRNA",
+   "sleeve": "moomoo",
+   "shares": 0.2919,
+   "cost": 260.56,
+   "exit": 233.82,
+   "exit_date": "2026-11-12",
+   "pnl": -7.81,
+   "reason": "手动卖出",
+   "dayMove": -4.34
+  },
+  {
+   "ticker": "SNDK",
+   "sleeve": "moomoo",
+   "shares": 0.2306,
+   "cost": 851.78,
+   "exit": 907.6,
+   "exit_date": "2026-11-12",
+   "pnl": 12.87,
+   "reason": "手动卖出",
+   "dayMove": -16.16
   }
  ],
  "weekly_champions": [
@@ -307,8 +301,8 @@
   ],
   [
    "MRNA",
-   328.0,
-   -3.47
+   320.19,
+   0
   ],
   [
    "QQQM",
@@ -412,8 +406,8 @@
   ],
   [
    "SNDK",
-   -39.93,
-   65.86
+   -27.06,
+   36.82
   ],
   [
    "HUBB",
