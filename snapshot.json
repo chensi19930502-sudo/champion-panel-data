@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated_at": "2026-11-12T17:37:02-05:00",
+ "updated_at": "2026-11-13T00:15:37-05:00",
  "gate": {
   "state": "开启",
   "vix": 25.56,
@@ -85,7 +85,7 @@
    "ticker": "NVDA",
    "sleeve": "moomoo",
    "strategy": "gift",
-   "shares": 0.1651,
+   "shares": 0.568,
    "cost": 0,
    "entry": null,
    "high_close": 178.67,
