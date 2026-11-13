@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated_at": "2026-11-13T16:58:40-05:00",
+ "updated_at": "2026-11-13T17:14:40-05:00",
  "gate": {
   "state": "冻结",
   "vix": 18.85,
@@ -32,10 +32,10 @@
    "shares": 6,
    "cost": 344.5,
    "entry": "2026-11-09",
-   "high_close": 379.76,
+   "high_close": 379.83,
    "high_date": "2026-11-13",
-   "stop": 333.61,
-   "close": 379.76,
+   "stop": 338.49,
+   "close": 379.83,
    "close_date": "2026-11-13",
    "prev_close": 374.95
   },
@@ -46,10 +46,10 @@
    "shares": 5.4872,
    "cost": 346.2595,
    "entry": "2026-11-09",
-   "high_close": 379.76,
+   "high_close": 379.83,
    "high_date": "2026-11-13",
-   "stop": 333.4,
-   "close": 379.76,
+   "stop": 338.28,
+   "close": 379.83,
    "close_date": "2026-11-13",
    "prev_close": 374.95
   },
