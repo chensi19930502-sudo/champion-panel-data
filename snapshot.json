@@ -1,10 +1,10 @@
 {
  "version": 2,
- "updated_at": "2026-11-13T16:17:59-05:00",
+ "updated_at": "2026-11-13T16:58:40-05:00",
  "gate": {
-  "state": "开启",
-  "vix": 25.56,
-  "date": "2026-11-06"
+  "state": "冻结",
+  "vix": 18.85,
+  "date": "2026-11-13"
  },
  "sleeves": {
   "ira_cash": 3535.34,
@@ -234,29 +234,29 @@
   {
    "rank": 1,
    "ticker": "MRNA",
-   "change_pct": 935.82,
-   "close": 254.19,
-   "status": "持仓中"
+   "change_pct": 801.78,
+   "close": 223.37,
+   "status": "未持仓"
   },
   {
    "rank": 2,
    "ticker": "SNDK",
-   "change_pct": 248.7,
-   "close": 835.06,
-   "status": "持仓中"
+   "change_pct": 248.21,
+   "close": 885.01,
+   "status": "未持仓"
   },
   {
    "rank": 3,
    "ticker": "VLO",
-   "change_pct": 101.37,
-   "close": 346.31,
+   "change_pct": 113.36,
+   "close": 379.76,
    "status": "持仓中"
   },
   {
    "rank": 4,
    "ticker": "TGT",
-   "change_pct": 80.65,
-   "close": 158.41,
+   "change_pct": 85.82,
+   "close": 161.44,
    "status": "持仓中"
   }
  ],
