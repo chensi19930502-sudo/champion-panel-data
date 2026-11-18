@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated_at": "2026-11-18 10:25 ET",
+ "updated_at": "2026-11-18 10:59 ET",
  "gate": {
   "state": "冻结",
   "vix": 18.85,
@@ -8,7 +8,7 @@
  },
  "sleeves": {
   "ira_cash": 3535.34,
-  "moomoo_cash": 11324.84
+  "moomoo_cash": 11324.71
  },
  "positions": [
   {
