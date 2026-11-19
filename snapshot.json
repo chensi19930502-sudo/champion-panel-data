@@ -1,14 +1,14 @@
 {
  "version": 2,
- "updated_at": "2026-11-18 16:18 ET",
+ "updated_at": "2026-11-19 16:02 ET",
  "gate": {
   "state": "冻结",
   "vix": 18.85,
   "date": "2026-11-13"
  },
  "sleeves": {
-  "ira_cash": 3535.34,
-  "moomoo_cash": 11324.71
+  "ira_cash": 5566.46,
+  "moomoo_cash": 13016.41
  },
  "positions": [
   {
@@ -27,28 +27,14 @@
   },
   {
    "ticker": "VLO",
-   "sleeve": "IRA",
-   "strategy": "champion",
-   "shares": 6,
-   "cost": 344.5,
-   "entry": "2026-11-09",
-   "high_close": 379.83,
-   "high_date": "2026-11-13",
-   "stop": 338.49,
-   "close": 343.73,
-   "close_date": "2026-11-18",
-   "prev_close": 363.8929
-  },
-  {
-   "ticker": "VLO",
    "sleeve": "moomoo",
    "strategy": "champion",
-   "shares": 5.4872,
+   "shares": 0.4872,
    "cost": 346.2595,
    "entry": "2026-11-09",
    "high_close": 379.83,
    "high_date": "2026-11-13",
-   "stop": 338.28,
+   "stop": null,
    "close": 343.73,
    "close_date": "2026-11-18",
    "prev_close": 363.8929
@@ -225,6 +211,28 @@
    "pnl": 0.99,
    "reason": "止损",
    "dayMove": -49.65
+  },
+  {
+   "ticker": "VLO",
+   "sleeve": "IRA",
+   "shares": 6,
+   "cost": 344.5,
+   "exit": 338.52,
+   "exit_date": "2026-11-19",
+   "pnl": -35.88,
+   "reason": "止损",
+   "dayMove": -31.26
+  },
+  {
+   "ticker": "VLO",
+   "sleeve": "moomoo",
+   "shares": 5,
+   "cost": 346.2595,
+   "exit": 338.34,
+   "exit_date": "2026-11-19",
+   "pnl": -39.6,
+   "reason": "止损",
+   "dayMove": -26.95
   }
  ],
  "weekly_champions": [
@@ -385,8 +393,8 @@
   ],
   [
    "VLO",
-   -123.92,
-   -18.4998724
+   -199.4,
+   -1.2323724
   ],
   [
    "SKHY",
