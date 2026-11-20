@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated_at": "2026-11-19 16:24 ET",
+ "updated_at": "2026-11-20 08:56 ET",
  "gate": {
   "state": "冻结",
   "vix": 18.85,
@@ -8,7 +8,7 @@
  },
  "sleeves": {
   "ira_cash": 5566.46,
-  "moomoo_cash": 13016.41
+  "moomoo_cash": 13158.23
  },
  "positions": [
   {
@@ -52,20 +52,6 @@
    "close": 167.46,
    "close_date": "2026-11-19",
    "prev_close": 165.96
-  },
-  {
-   "ticker": "NVDA",
-   "sleeve": "moomoo",
-   "strategy": "gift",
-   "shares": 1.0,
-   "cost": 70.213,
-   "entry": null,
-   "high_close": 178.67,
-   "high_date": "2026-11-09",
-   "stop": null,
-   "close": 145.98,
-   "close_date": "2026-11-19",
-   "prev_close": 150.96
   }
  ],
  "closed": [
@@ -233,6 +219,17 @@
    "pnl": -39.6,
    "reason": "止损",
    "dayMove": -26.95
+  },
+  {
+   "ticker": "NVDA",
+   "sleeve": "moomoo",
+   "shares": 1.0,
+   "cost": 70.213,
+   "exit": 141.82,
+   "exit_date": "2026-11-20",
+   "pnl": 71.61,
+   "reason": "手动卖出",
+   "dayMove": -4.16
   }
  ],
  "weekly_champions": [
@@ -465,8 +462,8 @@
   ],
   [
    "NVDA",
-   0,
-   75.767
+   71.61,
+   0
   ]
  ],
  "expenses": {
