@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated_at": "2026-11-23 09:54 ET",
+ "updated_at": "2026-11-23 12:35 ET",
  "gate": {
   "state": "开启",
   "vix": 39.53,
@@ -8,7 +8,7 @@
  },
  "sleeves": {
   "ira_cash": 113.7,
-  "moomoo_cash": 123.23
+  "moomoo_cash": 31.68
  },
  "positions": [
   {
@@ -99,8 +99,8 @@
    "ticker": "SNDK",
    "sleeve": "moomoo",
    "strategy": "champion",
-   "shares": 59,
-   "cost": 98.01,
+   "shares": 60,
+   "cost": 97.9024,
    "entry": "2026-11-23",
    "high_close": 98.01,
    "high_date": "2026-11-23",
