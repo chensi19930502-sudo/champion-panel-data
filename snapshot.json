@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated_at": "2026-11-20 16:18 ET",
+ "updated_at": "2026-11-23 09:39 ET",
  "gate": {
   "state": "开启",
   "vix": 39.53,
@@ -8,7 +8,7 @@
  },
  "sleeves": {
   "ira_cash": 5571.33,
-  "moomoo_cash": 14082.54
+  "moomoo_cash": 123.23
  },
  "positions": [
   {
@@ -26,25 +26,53 @@
    "prev_close": 167.46
   },
   {
-   "ticker": "VLO",
-   "sleeve": "moomoo",
+   "ticker": "SNDK",
+   "sleeve": "IRA",
    "strategy": "champion",
-   "shares": 0.4872,
-   "cost": 346.2595,
-   "entry": "2026-11-09",
-   "high_close": 379.83,
-   "high_date": "2026-11-13",
-   "stop": null,
-   "close": 334.27,
-   "close_date": "2026-11-20",
-   "prev_close": 338.46
+   "shares": 23,
+   "cost": 98.01,
+   "entry": "2026-11-23",
+   "high_close": 98.01,
+   "high_date": "2026-11-23",
+   "stop": 78.41,
+   "close": 98.01,
+   "close_date": "2026-11-23",
+   "prev_close": 98.01
+  },
+  {
+   "ticker": "VLO",
+   "sleeve": "IRA",
+   "strategy": "champion",
+   "shares": 5,
+   "cost": 337.74,
+   "entry": "2026-11-23",
+   "high_close": 337.74,
+   "high_date": "2026-11-23",
+   "stop": 270.19,
+   "close": 337.74,
+   "close_date": "2026-11-23",
+   "prev_close": 337.74
+  },
+  {
+   "ticker": "MRNA",
+   "sleeve": "IRA",
+   "strategy": "champion",
+   "shares": 9,
+   "cost": 205.14,
+   "entry": "2026-11-23",
+   "high_close": 205.14,
+   "high_date": "2026-11-23",
+   "stop": 164.11,
+   "close": 205.14,
+   "close_date": "2026-11-23",
+   "prev_close": 205.14
   },
   {
    "ticker": "TGT",
    "sleeve": "moomoo",
    "strategy": "champion",
-   "shares": 11.8021,
-   "cost": 160.987,
+   "shares": 12,
+   "cost": 161.053,
    "entry": "2026-11-09",
    "high_close": 167.46,
    "high_date": "2026-11-19",
@@ -52,6 +80,48 @@
    "close": 165.93,
    "close_date": "2026-11-20",
    "prev_close": 167.46
+  },
+  {
+   "ticker": "VLO",
+   "sleeve": "moomoo",
+   "strategy": "champion",
+   "shares": 10,
+   "cost": 338.951,
+   "entry": "2026-11-23",
+   "high_close": 338.951,
+   "high_date": "2026-11-23",
+   "stop": 271.16,
+   "close": 334.27,
+   "close_date": "2026-11-20",
+   "prev_close": 338.46
+  },
+  {
+   "ticker": "SNDK",
+   "sleeve": "moomoo",
+   "strategy": "champion",
+   "shares": 59,
+   "cost": 98.01,
+   "entry": "2026-11-23",
+   "high_close": 98.01,
+   "high_date": "2026-11-23",
+   "stop": 78.41,
+   "close": 98.01,
+   "close_date": "2026-11-23",
+   "prev_close": 98.01
+  },
+  {
+   "ticker": "MRNA",
+   "sleeve": "moomoo",
+   "strategy": "champion",
+   "shares": 24,
+   "cost": 205.14,
+   "entry": "2026-11-23",
+   "high_close": 205.14,
+   "high_date": "2026-11-23",
+   "stop": 164.11,
+   "close": 205.14,
+   "close_date": "2026-11-23",
+   "prev_close": 205.14
   }
  ],
  "closed": [
@@ -395,7 +465,7 @@
   [
    "VLO",
    -199.4,
-   -5.8412844
+   -46.81
   ],
   [
    "SKHY",
@@ -460,7 +530,7 @@
   [
    "TGT",
    0,
-   114.9777803
+   115.164
   ],
   [
    "NVDA",
