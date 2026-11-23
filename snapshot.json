@@ -1,13 +1,13 @@
 {
  "version": 2,
- "updated_at": "2026-11-23 09:39 ET",
+ "updated_at": "2026-11-23 09:54 ET",
  "gate": {
   "state": "开启",
   "vix": 39.53,
   "date": "2026-11-20"
  },
  "sleeves": {
-  "ira_cash": 5571.33,
+  "ira_cash": 113.7,
   "moomoo_cash": 123.23
  },
  "positions": [
@@ -43,7 +43,7 @@
    "ticker": "VLO",
    "sleeve": "IRA",
    "strategy": "champion",
-   "shares": 5,
+   "shares": 4,
    "cost": 337.74,
    "entry": "2026-11-23",
    "high_close": 337.74,
@@ -300,6 +300,17 @@
    "pnl": 71.61,
    "reason": "手动卖出",
    "dayMove": -4.16
+  },
+  {
+   "ticker": "VLO",
+   "sleeve": "IRA",
+   "shares": 1,
+   "cost": 337.74,
+   "exit": 331.56,
+   "exit_date": "2026-11-23",
+   "pnl": -6.18,
+   "reason": "手动卖出",
+   "dayMove": -6.18
   }
  ],
  "weekly_champions": [
