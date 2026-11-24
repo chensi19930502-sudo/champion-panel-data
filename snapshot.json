@@ -1,14 +1,14 @@
 {
  "version": 2,
- "updated_at": "2026-11-23 16:19 ET",
+ "updated_at": "2026-11-24 10:14 ET",
  "gate": {
   "state": "开启",
   "vix": 39.53,
   "date": "2026-11-20"
  },
  "sleeves": {
-  "ira_cash": 113.7,
-  "moomoo_cash": 31.68
+  "ira_cash": 1917.0,
+  "moomoo_cash": 4736.89
  },
  "positions": [
   {
@@ -24,20 +24,6 @@
    "close": 168.19,
    "close_date": "2026-11-23",
    "prev_close": 165.93
-  },
-  {
-   "ticker": "SNDK",
-   "sleeve": "IRA",
-   "strategy": "champion",
-   "shares": 23,
-   "cost": 98.01,
-   "entry": "2026-11-23",
-   "high_close": 98.01,
-   "high_date": "2026-11-23",
-   "stop": 78.41,
-   "close": 87.71,
-   "close_date": "2026-11-23",
-   "prev_close": 98.01
   },
   {
    "ticker": "VLO",
@@ -94,20 +80,6 @@
    "close": 329.4,
    "close_date": "2026-11-23",
    "prev_close": 334.27
-  },
-  {
-   "ticker": "SNDK",
-   "sleeve": "moomoo",
-   "strategy": "champion",
-   "shares": 60,
-   "cost": 97.9024,
-   "entry": "2026-11-23",
-   "high_close": 98.01,
-   "high_date": "2026-11-23",
-   "stop": 78.41,
-   "close": 87.71,
-   "close_date": "2026-11-23",
-   "prev_close": 98.01
   },
   {
    "ticker": "MRNA",
@@ -311,6 +283,28 @@
    "pnl": -6.18,
    "reason": "手动卖出",
    "dayMove": -6.18
+  },
+  {
+   "ticker": "SNDK",
+   "sleeve": "IRA",
+   "shares": 23,
+   "cost": 98.01,
+   "exit": 78.4043,
+   "exit_date": "2026-11-24",
+   "pnl": -450.93,
+   "reason": "止损出场",
+   "dayMove": -214.03
+  },
+  {
+   "ticker": "SNDK",
+   "sleeve": "moomoo",
+   "shares": 60,
+   "cost": 97.9024,
+   "exit": 78.4201,
+   "exit_date": "2026-11-24",
+   "pnl": -1168.94,
+   "reason": "止损出场",
+   "dayMove": -557.39
   }
  ],
  "weekly_champions": [
@@ -502,8 +496,8 @@
   ],
   [
    "SNDK",
-   -8.24,
-   -848.444
+   -1628.11,
+   0
   ],
   [
    "HUBB",
