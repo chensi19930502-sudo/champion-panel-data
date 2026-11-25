@@ -21,7 +21,8 @@
   "2026-11-19": -25.07,
   "2026-11-20": -38.46,
   "2026-11-23": -694.1,
-  "2026-11-24": -143.86
+  "2026-11-24": -143.86,
+  "2026-11-25": -291.7
  },
  "closed": [
   {
@@ -256,9 +257,12 @@
   "2026-11-19": -30.05,
   "2026-11-20": -42.62,
   "2026-11-23": -694.1,
-  "2026-11-24": -143.86
+  "2026-11-24": -143.86,
+  "2026-11-25": -291.7
  },
  "expenses": {
+  "total": 23111.18,
+  "count": 143,
   "by_category": [
    [
     "亚马逊",
@@ -382,9 +386,7 @@
     237.99,
     1
    ]
-  ],
-  "count": 143,
-  "total": 23111.18
+  ]
  },
  "gate": {
   "date": "2026-11-20",
@@ -393,13 +395,13 @@
  },
  "positions": [
   {
-   "close": 176.06,
-   "close_date": "2026-11-24",
+   "close": 172.16,
+   "close_date": "2026-11-25",
    "cost": 161.21,
    "entry": "2026-11-09",
    "high_close": 176.06,
    "high_date": "2026-11-24",
-   "prev_close": 168.19,
+   "prev_close": 176.06,
    "shares": 12,
    "sleeve": "IRA",
    "stop": 156.71,
@@ -407,13 +409,13 @@
    "ticker": "TGT"
   },
   {
-   "close": 324.67,
-   "close_date": "2026-11-24",
+   "close": 323.0,
+   "close_date": "2026-11-25",
    "cost": 337.74,
    "entry": "2026-11-23",
    "high_close": 337.74,
    "high_date": "2026-11-23",
-   "prev_close": 329.4,
+   "prev_close": 324.67,
    "shares": 4,
    "sleeve": "IRA",
    "stop": 270.19,
@@ -421,13 +423,13 @@
    "ticker": "VLO"
   },
   {
-   "close": 227.38,
-   "close_date": "2026-11-24",
+   "close": 220.84,
+   "close_date": "2026-11-25",
    "cost": 205.14,
    "entry": "2026-11-23",
    "high_close": 227.38,
    "high_date": "2026-11-24",
-   "prev_close": 212.08,
+   "prev_close": 227.38,
    "shares": 9,
    "sleeve": "IRA",
    "stop": 186.35,
@@ -435,13 +437,13 @@
    "ticker": "MRNA"
   },
   {
-   "close": 176.06,
-   "close_date": "2026-11-24",
+   "close": 172.16,
+   "close_date": "2026-11-25",
    "cost": 161.053,
    "entry": "2026-11-09",
    "high_close": 176.06,
    "high_date": "2026-11-24",
-   "prev_close": 168.19,
+   "prev_close": 176.06,
    "shares": 12,
    "sleeve": "moomoo",
    "stop": 156.73,
@@ -449,13 +451,13 @@
    "ticker": "TGT"
   },
   {
-   "close": 324.67,
-   "close_date": "2026-11-24",
+   "close": 323.0,
+   "close_date": "2026-11-25",
    "cost": 338.951,
    "entry": "2026-11-23",
    "high_close": 338.951,
    "high_date": "2026-11-23",
-   "prev_close": 329.4,
+   "prev_close": 324.67,
    "shares": 10,
    "sleeve": "moomoo",
    "stop": 271.16,
@@ -463,13 +465,13 @@
    "ticker": "VLO"
   },
   {
-   "close": 227.38,
-   "close_date": "2026-11-24",
+   "close": 220.84,
+   "close_date": "2026-11-25",
    "cost": 208.5488,
    "entry": "2026-11-23",
    "high_close": 227.38,
    "high_date": "2026-11-24",
-   "prev_close": 212.08,
+   "prev_close": 227.38,
    "shares": 34,
    "sleeve": "moomoo",
    "stop": 186.35,
@@ -486,7 +488,7 @@
   [
    "MRNA",
    320.19,
-   733.92
+   559.2008
   ],
   [
    "QQQM",
@@ -566,7 +568,7 @@
   [
    "VLO",
    -199.4,
-   -195.09
+   -218.47
   ],
   [
    "SKHY",
@@ -631,7 +633,7 @@
   [
    "TGT",
    0,
-   358.284
+   264.684
   ],
   [
    "NVDA",
@@ -643,7 +645,7 @@
   "ira_cash": 1917.0,
   "moomoo_cash": 2569.59
  },
- "updated_at": "2026-11-25 09:34 ET",
+ "updated_at": "2026-11-25 16:21 ET",
  "version": 2,
  "weekly_champions": [
   {
