@@ -391,9 +391,9 @@
   ]
  },
  "gate": {
-  "date": "2026-11-20",
   "state": "开启",
-  "vix": 39.53
+  "vix": 23.81,
+  "date": "2026-11-27"
  },
  "positions": [
   {
@@ -661,36 +661,36 @@
   "ira_cash": 1917.0,
   "moomoo_cash": 2569.59
  },
- "updated_at": "2026-11-27 16:20 ET",
+ "updated_at": "2026-11-27 16:22 ET",
  "version": 2,
  "weekly_champions": [
   {
-   "change_pct": 722.09,
-   "close": 195.0,
    "rank": 1,
-   "status": "未持仓",
-   "ticker": "MRNA"
+   "ticker": "MRNA",
+   "change_pct": 780.06,
+   "close": 228.64,
+   "status": "持仓中"
   },
   {
-   "change_pct": 216.53,
-   "close": 79.24,
    "rank": 2,
-   "status": "未持仓",
-   "ticker": "SNDK"
+   "ticker": "SNDK",
+   "change_pct": 205.84,
+   "close": 85.36,
+   "status": "未持仓"
   },
   {
-   "change_pct": 95.96,
-   "close": 165.93,
    "rank": 3,
-   "status": "持仓中",
-   "ticker": "TGT"
+   "ticker": "TGT",
+   "change_pct": 96.37,
+   "close": 171.97,
+   "status": "持仓中"
   },
   {
-   "change_pct": 95.57,
-   "close": 334.27,
    "rank": 4,
-   "status": "持仓中",
-   "ticker": "VLO"
+   "ticker": "APA",
+   "change_pct": 89.9,
+   "close": 46.1,
+   "status": "未持仓"
   }
  ]
 }
